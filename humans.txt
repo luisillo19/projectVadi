@@ -1,0 +1,19 @@
+/* TEAM */
+
+Developer & Designer: Tibor Kopca & Luis Carlos Giraldo Suarez
+Contact: tiborkopca.development@gmail.com & luisillo19@icloud.com
+Twitter: n/a
+Location: Palma de Mallorca, España
+
+/* THANKS */
+
+Thanks to:
+
+* [Lista de agradecimientos]
+
+/* SITE */
+
+Last update: 2024-06-27
+Language: Spanish
+Doctype: HTML5
+Components: HTML, CSS, JavaScript

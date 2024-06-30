@@ -1,0 +1,17 @@
+{
+  "name": "Vadi es inocente",
+  "short_name": "Vadi es inocente",
+  "icons": [
+    {
+      "src": "./img/favicon/favicon.ico",
+      "sizes": "16x16 32x32"
+    },
+    {
+      "src": "./img/favicon/android-chrome-512x512.png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://vadiesinocente.com/", 
+  "display": "standalone"
+}
+
